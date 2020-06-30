@@ -46,7 +46,7 @@
 
 成功打开项目之后，如下图：
 
-![](src/main/resources/static/images/1593419290.jpg)
+![](../images/1593419290.jpg)
 
 以Application结尾的Java类一般就是SpringBoot的启动类，比如本项目的启动类就是JavaStudyGithubApplication。
 我们直接像运行普通Java程序一样运行它，由于 Spring Boot 本身就嵌入servlet容器的缘故，我们的 web 项目就运行成功了， 非常方便。
